@@ -1,0 +1,9 @@
+requests
+aiohttp
+pandas
+numpy
+python-dotenv
+websockets
+uvicorn
+fastapi
+python-dateutil
